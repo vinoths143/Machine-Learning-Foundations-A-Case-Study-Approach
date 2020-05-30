@@ -10,7 +10,7 @@
 -love
 
 4. Out of the 11 words in selected_words, which one got the most negative weight in the selected_words_model?
-- terrible
+- horrible
 
 5. Which of the following ranges contains the accuracy of the selected_words_model on the test_data?
 -0.843
@@ -22,7 +22,7 @@
 - .835
 
 8. How do you compare the different learned models with the baseline approach where we are just predicting the majority class?
-- all words better and other almost same
+- all words better and other almost same , better
 
 9. Which of the following ranges contains the "predicted_sentiment" for the most positive review for "Baby Trend Diaper Champ", according to the sentiment_model from the IPython Notebook from lecture?
 - 0.999999937267
